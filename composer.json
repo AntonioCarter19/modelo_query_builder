@@ -1,0 +1,9 @@
+{
+	"name": "carter19/querybuilder",
+	"email": "antoniosebastiaopedro19@gmail.com",
+	"autoload":{
+		"psr-4":{
+			"App\\": "app/"
+		}
+	}
+}
